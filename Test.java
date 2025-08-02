@@ -4,10 +4,12 @@ public class Test {
     {
         int a=100;
         int b=200;
-        int res=a+b;
+        int c=700
+        int res=a+b+c;
         System.out.println("the result is " +res);
         System.out.println("Welcome to Jenkins First Session");
         System.out.println("Hello Everyone");
+        System.out.println("Hello World");
     }
     public static void main(String[] args)
     {
