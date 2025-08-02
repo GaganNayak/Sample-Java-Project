@@ -4,7 +4,7 @@ public class Test {
     {
         int a=100;
         int b=200;
-        int c=700
+        int c=700;
         int res=a+b+c;
         System.out.println("the result is " +res);
         System.out.println("Welcome to Jenkins First Session");
